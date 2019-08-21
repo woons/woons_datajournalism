@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/woons/woons_datajournalism
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image of woons](https://github.com/woons/woons_datajournalism/blob/master/Rplot01-01.png)
+![Image of woons](https://github.com/woons/woons_datajournalism/blob/master/Rplot01-01.png?raw=true)
 
 ### Markdown
 
